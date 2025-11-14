@@ -1,15 +1,15 @@
 # Craigslist Brasília - Redesign Moderno
 
-## 🎯 Visão Geral
+## Visão Geral
 
 Este projeto é um redesign completo do Craigslist de Brasília, transformando a interface caótica e desatualizada em uma experiência moderna, limpa e intuitiva seguindo os princípios de "Don't Make Me Think" de Steve Krug.
 
-## 🚀 Demonstração
+## Demonstração
 
 - **Aplicação Local**: `npm run dev` (porta 5173)
 - **Status**: Totalmente funcional com navegação completa
 
-## ✨ Principais Melhorias
+## Principais Melhorias
 
 ### Antes vs Depois
 
@@ -29,7 +29,7 @@ Este projeto é um redesign completo do Craigslist de Brasília, transformando a
 - Paleta de cores consistente
 - Princípios UX aplicados
 
-## 🎨 Design System
+## Design System
 
 ### Cores
 - **Primária**: #2563EB (Azul)
@@ -48,14 +48,14 @@ Este projeto é um redesign completo do Craigslist de Brasília, transformando a
 - Grid responsivo
 - Navegação breadcrumb
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - **React 18** - Framework principal
 - **Vite** - Build tool e dev server
 - **CSS Inline Styles** - Estilização (para compatibilidade máxima)
 - **JavaScript ES6+** - Funcionalidades modernas
 
-## 📱 Funcionalidades
+## Funcionalidades
 
 ### Página Principal
 - Header com busca centralizada
@@ -78,7 +78,7 @@ Este projeto é um redesign completo do Craigslist de Brasília, transformando a
 - Feedback visual para ações
 - Hierarquia de informações clara
 
-## 🎯 Princípios UX Aplicados
+## Princípios UX Aplicados
 
 ### "Don't Make Me Think"
 1. **Navegação óbvia**: Categorias claras e breadcrumbs
@@ -93,7 +93,7 @@ Este projeto é um redesign completo do Craigslist de Brasília, transformando a
 - **Redução de ruído**: Interface limpa sem distrações
 - **Consistência**: Padrões visuais mantidos
 
-## 📊 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 craigslist-redesign/
@@ -108,7 +108,7 @@ craigslist-redesign/
 └── README.md               # Esta documentação
 ```
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 - Node.js 16+
@@ -130,7 +130,7 @@ npm run dev
 npm run build
 ```
 
-## 🎨 Componentes Principais
+## Componentes Principais
 
 ### Header
 - Logo clicável para navegação
@@ -151,7 +151,7 @@ npm run build
 - Paginação
 - Cards de anúncios otimizados
 
-## 📈 Melhorias de UX
+## Melhorias de UX
 
 ### Navegação
 - **Antes**: Links confusos e espalhados
@@ -169,27 +169,27 @@ npm run build
 - **Antes**: Design dos anos 90
 - **Depois**: Interface moderna e profissional
 
-## 🎯 Resultados Alcançados
+## Resultados Alcançados
 
 ### Usabilidade
-✅ Redução do tempo de busca por categorias
-✅ Navegação intuitiva entre páginas
-✅ Filtros funcionais para refinamento
-✅ Interface responsiva para todos os dispositivos
+- Redução do tempo de busca por categorias
+- Navegação intuitiva entre páginas
+- Filtros funcionais para refinamento
+- Interface responsiva para todos os dispositivos
 
 ### Design
-✅ Visual moderno e profissional
-✅ Hierarquia de informações clara
-✅ Paleta de cores consistente
-✅ Tipografia legível e organizada
+- Visual moderno e profissional
+- Hierarquia de informações clara
+- Paleta de cores consistente
+- Tipografia legível e organizada
 
 ### Funcionalidade
-✅ Navegação SPA (Single Page Application)
-✅ Estados de interação responsivos
-✅ Filtros dinâmicos funcionais
-✅ Múltiplas visualizações (grid/lista)
+- Navegação SPA (Single Page Application)
+- Estados de interação responsivos
+- Filtros dinâmicos funcionais
+- Múltiplas visualizações (grid/lista)
 
-## 🔮 Próximos Passos
+## Próximos Passos
 
 ### Funcionalidades Futuras
 - [ ] Sistema de autenticação
@@ -208,7 +208,7 @@ npm run build
 - [ ] SEO otimizado
 - [ ] Analytics integrado
 
-## 📝 Conclusão
+## Conclusão
 
 Este redesign transforma completamente a experiência do usuário no Craigslist, aplicando princípios modernos de UX/UI design. O resultado é uma interface que não apenas parece moderna, mas funciona de forma intuitiva, reduzindo a carga cognitiva do usuário e melhorando significativamente a usabilidade.
 
@@ -216,4 +216,4 @@ O projeto demonstra como um redesign bem executado pode revitalizar uma platafor
 
 ---
 
-**Desenvolvido com ❤️ seguindo os princípios de "Don't Make Me Think"**
+**Desenvolvido seguindo os princípios de "Don't Make Me Think"**
